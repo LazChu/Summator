@@ -36,15 +36,51 @@ namespace Summator.Tests
 
             Assert.That(result == 0);
         }   
+
             [Test]
-            public void Test_average_number()
+        public void Test_average_number()
             {
-                float result = Summator.Average(new int[] {5,6 });
+                float result = Summator.Average(new int[] {5,6});
 
                 Assert.That(result == 5.5);
 
             }
+        
+        [Test]
+        public void Test_Sum_three_numbers()
+        {
+            int result = Summator.Sum(new int[] {6,14,10 });
+
+            Assert.That(result == 30);
         }
+        [Test]
+        public void Test_Sum_Two_positive_numbersAAA()
+        {
+            //Arrange 
+            var values = new int[] { 5, 6 };
+            int expected = 11;
+
+            //Action
+            int actual = Summator.Sum(values);
+            
+            //Assert
+            Assert.That(actual == expected);
+
+        }
+
+        [Test]
+
+        public void Test_multiply()
+        {
+            int num1 = 5;
+            int num2 = 6;
+           
+            int actual = Summator.Multiply( num1, num2);
+
+            Assert.That( actual == 30);
+        }
+
+    }
     }
 
     
