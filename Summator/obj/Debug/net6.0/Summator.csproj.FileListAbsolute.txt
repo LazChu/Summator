@@ -1,0 +1,15 @@
+E:\C#\Nunit-summator-project\Summator\bin\Debug\net6.0\Summator.exe
+E:\C#\Nunit-summator-project\Summator\bin\Debug\net6.0\Summator.deps.json
+E:\C#\Nunit-summator-project\Summator\bin\Debug\net6.0\Summator.runtimeconfig.json
+E:\C#\Nunit-summator-project\Summator\bin\Debug\net6.0\Summator.dll
+E:\C#\Nunit-summator-project\Summator\bin\Debug\net6.0\Summator.pdb
+E:\C#\Nunit-summator-project\Summator\obj\Debug\net6.0\Summator.csproj.AssemblyReference.cache
+E:\C#\Nunit-summator-project\Summator\obj\Debug\net6.0\Summator.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Nunit-summator-project\Summator\obj\Debug\net6.0\Summator.AssemblyInfoInputs.cache
+E:\C#\Nunit-summator-project\Summator\obj\Debug\net6.0\Summator.AssemblyInfo.cs
+E:\C#\Nunit-summator-project\Summator\obj\Debug\net6.0\Summator.csproj.CoreCompileInputs.cache
+E:\C#\Nunit-summator-project\Summator\obj\Debug\net6.0\Summator.dll
+E:\C#\Nunit-summator-project\Summator\obj\Debug\net6.0\refint\Summator.dll
+E:\C#\Nunit-summator-project\Summator\obj\Debug\net6.0\Summator.pdb
+E:\C#\Nunit-summator-project\Summator\obj\Debug\net6.0\Summator.genruntimeconfig.cache
+E:\C#\Nunit-summator-project\Summator\obj\Debug\net6.0\ref\Summator.dll
